@@ -1,0 +1,67 @@
+body {
+  font-family: "Raleway", sans-serif;
+  padding: 10px;
+}
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 50px;
+}
+h2 {
+  font-size: 20px;
+  line-height: 10px;
+}
+p {
+  font-size: 13px;
+  color: #9ba6a5;
+}
+ul {
+  list-style: none;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+}
+.app {
+  border: 1px solid #e3e3e3;
+  padding: 15px;
+  max-width: 400px;
+  border-radius: 5px;
+  background-color: #edf7fa;
+}
+.feels {
+  margin-left: 55px;
+  font-size: 13px;
+  margin-top: -5px;
+}
+span {
+  font-weight: bold;
+}
+img {
+  margin-bottom: -15px;
+}
+.search {
+  background-color: #79c2d0;
+  color: white;
+  border-radius: 3px;
+  border-width: 1px;
+  border-color: gray;
+  width: 80px;
+  font-size: 12px;
+  height: 29px;
+}
+input {
+  margin-bottom: 10px;
+}
+.current-location {
+  border-radius: 3px;
+  background-color: #e3d9be;
+  border-width: 1px;
+  color: white;
+  border-color: gray;
+  width: 100px;
+  font-size: 12px;
+  height: 29px;
+}
+.forcast {
+  margin-top: 8px;
+}
