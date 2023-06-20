@@ -49,14 +49,7 @@ img {
 input {
   margin-bottom: 10px;
 }
-.degree {
-  border-radius: 120px;
-  margin-left: 5px;
-  background-color: #9cd3d3;
-  border-width: 1px;
-  color: #113f67;
-  border-color: gray;
-}
+
 .forcast {
   margin-top: 8px;
 }
